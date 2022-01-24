@@ -9,6 +9,7 @@ public class Orgsdet {
 	public void demo()
 	{
 		System.out.println("hii");
+		System.out.println("hello");
 	}
 
 }
